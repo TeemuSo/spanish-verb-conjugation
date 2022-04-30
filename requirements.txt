@@ -11,3 +11,5 @@ numpy == 1.19.4
 
 # C:\Users\teemu\Desktop\ITAM\spanish\heroku-app\Spanish-App.ipynb: 4
 pandas == 1.4.1
+
+voila
